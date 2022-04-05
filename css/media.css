@@ -1,0 +1,445 @@
+@media (max-width: 1299px) {
+	.header-div {
+		padding: 18px;
+	}
+
+	.header-navigation,
+	.button-call,
+	ul[class="projects-item"] {
+		display: none;
+	}
+
+	.contact {
+		color: white;
+	}
+
+	.home-div {
+		margin: 0 auto;
+		padding: 85px 0;
+	}
+
+	div[class="home-div"]>h1,
+	div[class="home-div"]>p {
+	 	padding: 0;
+	 	text-align: left;
+	}
+
+	div[class="home-div"]>h1,
+	span.home-rnd {
+		font-size: 23px;
+		line-height: 132.83%;
+	}
+
+	div[class="home-div"]>h1 {
+		width: 339px;
+		margin: 0 auto;
+	}
+
+	div[class="home-div"]>p {
+		width: 339px;
+		height: 94px;
+		margin: 16px auto 19px;
+		font-size: 14px;
+		line-height: 135.84%;
+	}
+
+	.home-div-button {
+		width: 339px;
+		margin: 0 auto;
+	}
+
+	.button-calculate, .button-submit {
+		width: 339px;
+		height: 51px;
+		margin: 13px 0;
+	}
+
+	.home {
+		height: 476px;
+		background-size: cover;
+	}
+
+	.projects {
+		height: 890px;
+		margin: 0;
+		padding: 0
+	}
+
+	.projects-presentation {
+		width: 340px;
+}
+
+	.projects-images,
+	.projects-presentation-slider {
+		display: none;
+	}
+
+	div[class="projects-text"]>h2 {
+		width: 253px;
+		height: 66px;
+		font-size: 22px;
+		line-height: 138.6%;
+		text-align: center;
+		letter-spacing: -0.07em;
+		margin: 36px auto 22px;
+	}
+
+	div[class="projects-text"] h2+p {
+		width: 311px;
+		height: 86px;
+		font-size: 11px;
+		line-height: 158.48%;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.projects-text {
+		margin: 0 auto;
+	}
+
+	.projects-image-mobile {
+		display: flex;
+		justify-content: center;
+		position: relative;
+	}
+
+	.projects-image-mobile-button {
+		display: flex;
+		width: 340px;
+		justify-content: space-between;
+		position: absolute;
+		top: 87px;
+	}
+
+	.button-navigation-mobile-left,
+	.button-navigation-mobile-right {
+		background: transparent;
+		margin: 0;
+		padding: 0;
+		border: none;
+		cursor: pointer;
+	}
+
+	.projects-comment {
+		width: 340px;
+		margin: 0 auto;
+	}
+
+	div[class="projects-comment"] div h3 {
+		font-size: 14px;
+		line-height: 138.6%;
+	}
+
+	div[class="projects-comment"] div h3~p {
+		font-size: 11px;
+		line-height: 18px;
+	}
+
+	div[class="projects-control"]>h3 {
+		font-size: 22px;
+		line-height: 30px;
+		margin: 58px auto 20px;
+	}
+
+	.online-control-div {
+		background: black;
+		height: 693px;
+	}
+
+	.online-control-text {
+		margin: 0;
+	}
+
+	.online-control-button-div {
+		background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("../images/image-6.jpg");
+		width: 340px;
+		height: 207px;
+		background-size: cover;
+		position: relative;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		margin: 0 auto 0;
+
+	}
+
+	.online-control-button {
+		width: 90px;
+		height: 90px;
+		margin: 0;
+		padding: 0;
+		background-color: rgba(0, 0, 0, 0);
+		border: none;
+		position: absolute;
+		top: 65px;
+		left: 130px;
+		cursor: pointer;
+}
+
+	.circle {
+		width: 90px;
+		height: 90px;
+	}
+
+	.play {
+		width: 14px;
+		height: 18px;
+		position: absolute;
+		top: 33px;
+		left: 39px;
+	}
+
+	.online-control-text {
+		width: 340px;
+		margin: 0 auto;
+	}
+
+	.online-control-text-image {
+		margin: 0 auto;
+		padding: 14px 0 14px;
+
+	}
+
+	div[class="online-control-text"]>p {
+		color: white;
+		width: 340px;
+		font-size: 11px;
+		line-height: 169.8%;
+		margin: 0 0 61px 0;
+	}
+
+	.form-submit {
+		display: block;
+		width: 340px;
+		margin: 0 auto;
+	}
+
+	.input-name, .input-phone {
+		width: 340px;
+		background-color: black;
+
+	}
+
+	.input-name {
+		margin: 0 0 63px;
+	}
+
+	.input-phone {
+		margin: 0 0 107px;
+	}
+
+	span[class="lable"] {
+		font-size: 13px;
+		line-height: 21px;
+		color: rgba(255, 255, 255, 0.5);
+	}
+
+	span[class="agree"] {
+		color: white;
+	}
+
+	form[class="form-submit"] label input::placeholder {
+		color: #FFFFFF;
+	}
+
+	.checkbox-online-control {
+		width: 340px;
+		position: relative;
+		bottom: 180px;
+	}
+
+	form[class="form-submit"] button {
+		width: 340px;
+	}
+
+	div[class="tor-div-title"] h3 {
+		font-size: 22px;
+		line-height: 30px;
+		text-align: center;
+		text-transform: uppercase;
+		color: #181818;
+		margin-top: 83px;
+		margin-bottom: 17px;
+	}
+
+	.tor-image {
+		width: 340px;
+		display: block;
+		margin: 0 auto;
+	}
+
+	div[class="tor-image-1"] img,
+	div[class="tor-image-2"] img,
+	div[class="tor-image-3"] img {
+		width: 340px;
+	}
+
+	.tor-images-list {
+		margin-top: -150px;
+		margin-left: 0px; 
+		width: 270px;
+		height: 241px;
+	}
+
+	ul[class="tor-images-list"]>h4 {
+		font-size: 15px;
+		line-height: 21px;
+		padding: 21px 67px 10px 21px;
+	}
+
+	ul[class="tor-images-list"]>li {
+		font-size: 13px;
+		line-height: 22px;
+		padding-left: 34px;
+	}
+
+	.price-1,
+	.price-2,
+	.price-3 {
+	    font-size: 15px;
+	    line-height: 21px;
+	    width: 190px;
+	    height: 40px;
+	    margin-top: 70px; 
+	    margin-left: 0; 
+	    padding-top: 10px;
+	}
+
+	.tor-image-1,
+	.tor-image-2,
+	.tor-image-3 {
+		margin: 0;
+	}
+
+	img[src="images/tor-1.jpg"] {
+		margin-top: 9px;
+	}
+
+	img[src="images/tor-2.jpg"],
+	img[src="images/tor-3.jpg"] {
+		margin-top: 178px;
+	}
+
+	.request,
+	.realize,
+	.clients,
+	.town,
+	.footer {
+		display: none;
+	}
+
+	.realize-mobile {
+		display: block;
+		position: relative;
+		top: 174px;
+		z-index: 2;
+	}
+
+	.realize-mobile-div {
+		width: 340px;
+		height: 332px;
+		margin: 0 auto;
+		position: relative;
+	}
+
+	.realize-mobile-div-button {
+		display: flex;
+		width: 340px;
+		justify-content: space-between;
+		position: absolute;
+		bottom: 110px;
+	}
+
+	section[class="realize-mobile"]>div>h2 {
+		font-family: 'Yeseva One';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 22px;
+		line-height: 138.6%;
+		text-align: center;
+		text-transform: uppercase;
+		color: #E3B873;
+		width: 340px;
+		height: 66px;
+	}
+
+	section[class="realize-mobile"]>div>img {
+		margin: 0 auto;
+	}
+
+	.questions-div {
+		position: static;
+		width: 340px;
+		padding: 173px 0 0 0;
+		margin: 0 auto;
+	}
+
+	.questions-lable-top {
+		display: block;
+		width: 340px;
+	}
+
+	.questions-form-question {
+		width: 340px;
+		margin: 0;
+	}
+
+	.questions-form-title {
+		margin-bottom: 10px;
+	}
+
+	.questions-form-lable {
+		margin-top: 42px;
+	}
+
+	.questions-form-name,
+	.questions-form-phone,
+	.questions-form-question {
+		margin-bottom: 21px;
+	}
+
+
+	.checkbox-questions-form {
+		margin: 0 auto;
+	}
+
+	.button-questions {
+		margin: 67px 0 0;
+		width: 340px;
+		height: 51px;
+	}
+
+	.contacts-div {
+		height: 1120px;
+		background: black;
+		margin-top: 30px;
+	}
+
+	div[class="contacts-map"]>h3 {
+		font-size: 18px;
+		line-height: 138.6%;
+		margin: 500px auto 0;
+		width: 330px;
+		height: 71px;
+		padding: 0;
+	}
+
+	div[class="contacts-map-google"] iframe {
+		width: 340px;
+		height: 200px;
+	}
+
+	.contacts-map {
+		height: 180px;
+	}
+
+	.contacts-map-google {
+		position: relative;
+		bottom: 360px;
+		width: 340px;
+		height: 200px;
+		margin: 0 auto;
+	}
+
+}
